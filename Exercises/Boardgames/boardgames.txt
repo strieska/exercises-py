@@ -1,0 +1,100 @@
+Settlers of Catan;7.2;9800;1995
+Carcassonne;7.4;8700;2000
+Pandemic;7.7;9200;2008
+Dominion;7.8;8400;2008
+Terraforming Mars;8.4;7800;2016
+Agricola;8.0;7200;2007
+Puerto Rico;8.1;6900;2002
+7 Wonders;7.8;8500;2010
+Gloomhaven;8.8;6600;2017
+Power Grid;7.9;6400;2004
+Splendor;7.5;7500;2014
+Wingspan;8.2;6100;2019
+Codenames;7.7;7300;2015
+Ticket to Ride;7.5;12500;2004
+Scythe;8.3;5700;2016
+Arkham Horror;7.3;6900;1987
+Terra Mystica;8.3;5300;2012
+Small World;7.4;7100;2009
+Azul;7.8;5800;2017
+Dead of Winter;7.7;5600;2014
+Through the Ages;8.6;4900;2006
+Mage Knight;8.1;5300;2011
+Brass;8.0;5200;2007
+Viticulture;7.9;5100;2013
+Everdell;7.8;4800;2018
+Kingdomino;7.2;6600;2016
+Love Letter;7.1;6800;2012
+Twilight Struggle;8.4;4500;2005
+Istanbul;7.6;4900;2014
+Mysterium;7.4;5000;2015
+Dominion: Intrigue;7.7;4400;2009
+Blood Rage;8.0;4200;2015
+Roll for the Galaxy;7.7;4300;2014
+Concordia;8.1;4000;2013
+The Castles of Burgundy;8.0;4100;2011
+The Resistance;7.4;4600;2009
+Five Tribes;7.8;3900;2014
+Clank!;7.9;3800;2016
+Tzolk'in;8.0;3700;2012
+Santorini;7.6;4000;2016
+Cosmic Encounter;7.5;4200;1977
+King of Tokyo;7.3;4400;2011
+Pandemic Legacy: Season 1;8.6;3300;2015
+Dominion: Seaside;7.9;3600;2009
+Great Western Trail;8.2;3200;2016
+Roll Player;7.6;3500;2016
+Blood Bowl;7.3;3700;1986
+Anachrony;8.2;3100;2017
+Patchwork;7.7;3400;2014
+Le Havre;8.0;3000;2008
+Pandemic Legacy: Season 2;8.5;2900;2017
+Patchwork;7.7;3100;2014
+A Feast for Odin;8.2;2800;2016
+Dominion: Prosperity;8.0;2700;2010
+Lords of Waterdeep;7.7;3000;2012
+Mansions of Madness;7.6;2900;2011
+Camel Up;7.1;3400;2014
+7 Wonders Duel;8.1;2600;2015
+Pandemic: On the Brink;7.8;2800;2009
+Alhambra;7.2;3200;2003
+Aeon's End;8.0;2500;2016
+Pandemic: In the Lab;7.8;2600;2013
+A Game of Thrones: The Board Game;7.7;2700;2003
+Ticket to Ride: Europe;7.7;2500;2005
+Dominion: Cornucopia;7.8;2400;2011
+Jaipur;7.6;2500;2009
+The Crew: The Quest for Planet Nine;8.1;2300;2019
+Pandemic: The Cure;7.3;2700;2014
+Twilight Imperium;8.7;2100;1997
+Lords of Hellas;7.9;2200;2018
+Pandemic: Rising Tide;7.2;2400;2017
+Race for the Galaxy;7.7;2300;2007
+Spirit Island;8.3;2000;2017
+Escape: The Curse of the Temple;7.1;2600;2012
+Pandemic: Fall of Rome;7.5;2200;2018
+Dominion: Dark Ages;7.9;2100;2012
+Welcome To...;7.8;2000;2018
+Stone Age;7.6;2100;2008
+Pandemic: Reign of Cthulhu;7.0;2400;2016
+Inis;7.8;1900;2016
+Terraforming Mars: Prelude;8.1;1800;2018
+Battlestar Galactica;7.7;1900;2008
+Scythe: The Wind Gambit;8.1;1700;2017
+Star Realms;7.6;2000;2014
+Sushi Go!;7.3;2200;2013
+Betrayal at House on the Hill;7.1;2300;2004
+Orleans;8.0;1600;2014
+Pandemic: State of Emergency;7.8;1800;2015
+Codenames: Duet;7.7;1700;2017
+El Grande;7.8;1500;1995
+Pandemic: The Board Game;7.7;1600;2008
+Dominion: Hinterlands;7.9;1400;2011
+7 Wonders: Leaders;7.8;1500;2011
+Deadwood;7.3;1800;2011
+Patchwork;7.7;1300;2014
+Santorini;7.6;1400;2004
+Thunderstone;7.3;1600;2009
+Pandemic: Iberia;7.9;1200;2016
+Betrayal at Baldur's Gate;7.1;1500;2017
+Suburbia;7.6;1100;2012

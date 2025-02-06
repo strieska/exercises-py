@@ -1,0 +1,4 @@
+Call count: 3
+Total time: 342
+Longest call ID: 003
+Average call length: 114.0
